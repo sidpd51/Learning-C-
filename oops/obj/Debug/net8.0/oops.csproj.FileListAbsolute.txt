@@ -1,0 +1,15 @@
+/Users/sidpd57/Documents/Learning dotnet/oops/obj/Debug/net8.0/oops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidpd57/Documents/Learning dotnet/oops/obj/Debug/net8.0/oops.AssemblyInfoInputs.cache
+/Users/sidpd57/Documents/Learning dotnet/oops/obj/Debug/net8.0/oops.AssemblyInfo.cs
+/Users/sidpd57/Documents/Learning dotnet/oops/obj/Debug/net8.0/oops.csproj.CoreCompileInputs.cache
+/Users/sidpd57/Documents/Learning dotnet/oops/obj/Debug/net8.0/oops.sourcelink.json
+/Users/sidpd57/Documents/Learning dotnet/oops/bin/Debug/net8.0/oops
+/Users/sidpd57/Documents/Learning dotnet/oops/bin/Debug/net8.0/oops.deps.json
+/Users/sidpd57/Documents/Learning dotnet/oops/bin/Debug/net8.0/oops.runtimeconfig.json
+/Users/sidpd57/Documents/Learning dotnet/oops/bin/Debug/net8.0/oops.dll
+/Users/sidpd57/Documents/Learning dotnet/oops/bin/Debug/net8.0/oops.pdb
+/Users/sidpd57/Documents/Learning dotnet/oops/obj/Debug/net8.0/oops.dll
+/Users/sidpd57/Documents/Learning dotnet/oops/obj/Debug/net8.0/refint/oops.dll
+/Users/sidpd57/Documents/Learning dotnet/oops/obj/Debug/net8.0/oops.pdb
+/Users/sidpd57/Documents/Learning dotnet/oops/obj/Debug/net8.0/oops.genruntimeconfig.cache
+/Users/sidpd57/Documents/Learning dotnet/oops/obj/Debug/net8.0/ref/oops.dll
