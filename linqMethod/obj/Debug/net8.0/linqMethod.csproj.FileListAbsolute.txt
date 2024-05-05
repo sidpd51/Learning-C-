@@ -1,0 +1,15 @@
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/bin/Debug/net8.0/linqMethod
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/bin/Debug/net8.0/linqMethod.deps.json
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/bin/Debug/net8.0/linqMethod.runtimeconfig.json
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/bin/Debug/net8.0/linqMethod.dll
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/bin/Debug/net8.0/linqMethod.pdb
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/obj/Debug/net8.0/linqMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/obj/Debug/net8.0/linqMethod.AssemblyInfoInputs.cache
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/obj/Debug/net8.0/linqMethod.AssemblyInfo.cs
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/obj/Debug/net8.0/linqMethod.csproj.CoreCompileInputs.cache
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/obj/Debug/net8.0/linqMethod.sourcelink.json
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/obj/Debug/net8.0/linqMethod.dll
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/obj/Debug/net8.0/refint/linqMethod.dll
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/obj/Debug/net8.0/linqMethod.pdb
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/obj/Debug/net8.0/linqMethod.genruntimeconfig.cache
+/Users/sidpd57/Documents/Learning dotnet/linqMethod/obj/Debug/net8.0/ref/linqMethod.dll

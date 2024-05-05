@@ -12,3 +12,4 @@
 /Users/sidpd57/Documents/Learning dotnet/linq/obj/Debug/net8.0/linq.pdb
 /Users/sidpd57/Documents/Learning dotnet/linq/obj/Debug/net8.0/linq.genruntimeconfig.cache
 /Users/sidpd57/Documents/Learning dotnet/linq/obj/Debug/net8.0/ref/linq.dll
+/Users/sidpd57/Documents/Learning dotnet/linq/obj/Debug/net8.0/linq.sourcelink.json
